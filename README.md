@@ -35,9 +35,9 @@ Sistem ini mengelola empat entitas utama yang saling berkaitan, sebagai berikut:
 <br> Program ini disusun dengan _layered architecture_ sederhana, yang terbagi ke dalam empat _packages_:
  
 - `model` -> merepresentasikan entitas/objek data (Donatur, Donasi, Penerima, Penyaluran).
-- `service` -> menangani logika bisnis dan operasi CRUD untuk masing-masing entitas.
-- `controller` -> mengatur alur navigasi menu utama program.
-- `util` -> berisi fungsi bantu (helper), seperti validasi input dari pengguna.
+- `service` -> menangani logika dan operasi CRUD untuk masing-masing entitas.
+- `controller` -> mengatur alur menu utama program.
+- `util` -> berisi fungsi bantu (helper), seperti validasi input.
 - `main` -> *entry point* program.
 
 ```
