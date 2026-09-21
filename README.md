@@ -267,7 +267,7 @@ public class PenerimaLembaga extends Penerima {
 Bagian ini menunjukkan bagaimana program benar-benar terlihat dan berjalan saat dieksekusi di terminal, sehingga pembaca yang belum sempat mencoba sendiri tetap bisa membayangkan alur penggunaannya dari awal hingga akhir. Urutan tangkapan layar di bawah ini disusun mengikuti skenario penggunaan yang wajar: mulai dari program dibuka, menjelajahi tiap menu data, mencoba fitur tambah/ubah/hapus, sampai akhirnya keluar dari program.
  
 **1. Tampilan Menu Utama**
-Saat program pertama kali dijalankan, akan muncul judul dari sistem beserta lima pilihan menu, mulai dari Donatur, Donasi, Penerima, Penyaluran, dan Keluar.
+<br> Saat program pertama kali dijalankan, akan muncul judul dari sistem beserta lima pilihan menu, mulai dari Donatur, Donasi, Penerima, Penyaluran, dan Keluar.
 Cukup input angka sesuai menu yang ingin dituju, lalu menekan Enter. 
 Tampilan menu ini akan muncul berulang kali setiap kali pengguna kembali dari salah satu sub-menu, karena disusun dengan struktur perulangan yang baru berhenti ketika pengguna memilih "Keluar".
 
