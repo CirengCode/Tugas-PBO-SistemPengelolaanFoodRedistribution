@@ -264,7 +264,7 @@ public class PenerimaLembaga extends Penerima {
 ```
 
 ## 🥗 Alur Program
-Bagian ini menunjukkan bagaimana program benar-benar terlihat dan berjalan saat dieksekusi di terminal, sehingga pembaca yang belum sempat mencoba sendiri tetap bisa membayangkan alur penggunaannya dari awal hingga akhir. Urutan tangkapan layar di bawah ini disusun mengikuti skenario penggunaan yang wajar: mulai dari program dibuka, menjelajahi tiap menu data, mencoba fitur tambah/ubah/hapus, sampai akhirnya keluar dari program.
+Berikut ini adalah alur program secara garis besar:
  
 **1. Tampilan Menu Utama**
 <br> Saat program pertama kali dijalankan, akan muncul judul dari sistem beserta lima pilihan menu, mulai dari Donatur, Donasi, Penerima, Penyaluran, dan Keluar.
