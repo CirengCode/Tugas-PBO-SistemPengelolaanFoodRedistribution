@@ -337,7 +337,7 @@ Jika mengetik selain itu, proses dibatalkan dan data tetap ada. Tangkapan layar 
 
 
 <br> **9. Keluar dari Program**
-<br> Tangkapan layar terakhir memperlihatkan pesan penutup (“Terima kasih sudah menggunakan Food Redistribution System”) yang muncul saat pengguna memilih menu “Keluar” di menu utama. 
+<br> Pada _output_ sistem, memperlihatkan pesan penutup (“Terima kasih sudah menggunakan Food Redistribution System”) yang muncul saat pengguna memilih menu “Keluar” di menu utama. 
 Setelah pesan ini tampil, program benar-benar berhenti berjalan. Perulangan pada Controller yang menjaga menu tetap muncul dihentikan, dan kendali kembali ke sistem operasi.
 
 <img width="542" height="330" alt="image" src="https://github.com/user-attachments/assets/076797a4-66ac-4502-872e-4e9171822450" />
